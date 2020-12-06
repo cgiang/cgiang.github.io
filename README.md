@@ -1,2 +1,2 @@
-- personal website: cgiang.github.io 
-- Food pin website: https://cgiang.github.io/foodpinweb/cover/index.html
+- personal website: https://cgiang.github.io 
+- Food pin website: https://cgiang.github.io/foodpinweb/cover
