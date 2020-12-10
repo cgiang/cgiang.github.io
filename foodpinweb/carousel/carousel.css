@@ -6,6 +6,9 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
+  background: url("3667967.png") no-repeat center center fixed; 
+  background-color: #F8F9FA;
+
 }
 
 
@@ -31,7 +34,6 @@ body {
   padding-top: 100px;
   padding-bottom: 2rem;
   margin-bottom: 0;
-  background-color: #0000004f;
 }
 
 
@@ -47,9 +49,15 @@ body {
   margin: 30px;
 }
 
-.jumbotron .container {
-  max-width: 80rem;
-  padding: 0;
+.about-us{
+  margin-top: 250px;
+  margin-bottom: 100px;  
+}
+
+.about-us p{
+  text-align: justify;
+  padding-right:16px;
+
 }
 
 .jumbotron .btn-secondary {
