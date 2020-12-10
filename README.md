@@ -1,1 +1,2 @@
-"# cgiang.github.io" 
+- personal website: https://cgiang.github.io 
+- Food pin website: https://cgiang.github.io/foodpinweb/cover
